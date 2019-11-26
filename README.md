@@ -1,2 +1,2 @@
 # BasicJava
-Self-learning Java Code
+Introduction to Java Programming (Comprehensive Version, 10th Edition).
